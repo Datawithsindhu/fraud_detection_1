@@ -1,0 +1,6 @@
+
+
+print('practice branch creation')
+
+def subtraction(a,b):
+    return a-b
